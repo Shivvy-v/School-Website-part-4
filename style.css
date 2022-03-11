@@ -1,0 +1,29 @@
+body {
+    margin: 0;
+    text-align: center;
+    background: linear-gradient (#6930c3 0%, #5390d9 100%);
+    background-repeat: no-repeat;
+    background-color:#d8f3dc;
+    font-size: 20px;
+}
+
+h1 {
+    font-size: 45px;
+    font-family: "Ariel";
+    font-weight: 250;
+    text-shadow: 2px 2px #cdb4db;
+    background-color: aqua;
+}
+
+h2 {
+    font-size: 35px;
+}
+.marquee-div {
+            height: 50px;
+            overflow: hidden;
+            position: relative;
+            background: #feeafa;
+            color: #8e9aaf;
+            font-size: 35px;
+        }
+        
